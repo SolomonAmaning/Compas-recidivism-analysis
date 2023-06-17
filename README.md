@@ -11,4 +11,4 @@ Another issue is the lack of transparency surrounding the inner workings of the 
 The use of COMPAS in the criminal justice system has sparked numerous legal challenges and debates. Critics argue that relying heavily on an opaque algorithm to make crucial decisions about an individual's liberty raises concerns of due process and can perpetuate systemic inequalities. Proponents, on the other hand, contend that COMPAS provides valuable additional information to judges and parole boards, aiding in their decision-making process and potentially reducing recidivism rates.
 
 ## This project was carried out to determine the fairness of the compas algorithm and in order build a fairer model using responsible artificial intelligence techniques.
-My part of the project was to identify the proxy features. I used cosine similarity for this purpose.
+## My part of the project was to identify the proxy features. I used cosine similarity for this purpose.
